@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1f4",
+      "name": "john cena",
+      "email": "j@gamil.com",
+      "password": "wo48yr8923ehf"
+    },
+    {
+      "id": "146",
+      "name": "Virat",
+      "email": "v@gamil.com",
+      "password": "wosdv8923ehf"
+    },
+    {
+      "id": "1f6",
+      "name": "Suresh",
+      "email": "s@gamil.com",
+      "password": "wo4sd923ehf"
+    },
+    {
+      "id": "1f66",
+      "name": "King",
+      "email": "k@gamil.com",
+      "password": "wo48yr8923ehf"
+    },
+    {
+      "id": "136",
+      "name": "Rakish",
+      "email": "r@gamil.com",
+      "password": "wor8923ehf"
+    },
+    {
+      "id": "1f46",
+      "name": "Tsyon",
+      "email": "t@gamil.com",
+      "password": "wioejfowhof"
+    },
+    {
+      "id": "1f46",
+      "name": "Tsyon",
+      "email": "t@gamil.com",
+      "password": "wioejfowhof"
+    },
+    {
+      "id": "065e",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "4c43",
+      "name": "Aqueeq Azam",
+      "email": "txwort@gmail.com",
+      "password": "ejof09wue09fu"
+    }
+  ]
+}
